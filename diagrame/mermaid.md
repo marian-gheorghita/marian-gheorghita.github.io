@@ -35,9 +35,12 @@ sanction "Sectiunea I"
         : am luat contact cu mediul academic
 2024-2025
         : am terminat anul I
-        : am facut practica
+        :am facut practica
 2025-2026
+        :
         : am facut practica la fotogrametrie
+2026-2027
+        : am terminat facultatea
 
         
 ```
