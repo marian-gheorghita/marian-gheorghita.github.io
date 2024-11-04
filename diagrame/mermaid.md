@@ -6,4 +6,5 @@
 flowchat LR
 A[/Anul I/] -->|Tranzitie usoara| B[Anul II]
 A -.->|Tranzitie grea| C[\Anul IV/]
+C -->|Tranzitie medie| D[Master]
 ```
