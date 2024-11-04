@@ -11,8 +11,19 @@ a_{31} & a_{32} & a_{33} \\
 $$
 
   **Posibilitati:**
-  - `{pmatrix}`
-  - `{bmatrix}`
-  - `{Bmatrix}`
-  - `{vmatrix}` 
-  - `{Vmatrix}`
+- `{pmatrix}`
+- `{bmatrix}`
+- `{Bmatrix}`
+- `{vmatrix}` 
+- `{Vmatrix}`
+
+# Scrierea sistemelor de excuatii
+
+```LaTeX
+$$
+\begin{aign}
+f(x) & ax^2\\
+g(x) & ax^2+bx+c\\
+\end{align}
+$$
+```
