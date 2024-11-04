@@ -23,5 +23,25 @@ C -->|Tranzitie medie| D[Master]
 ```mermaid
 A -->B &
 A & B -->C & D & E --> F & G 
-
 ```
+
+  # Diagrame de tip _Timeline_
+
+```mermaid
+title "Timeline"
+sanction "Sectiunea I"
+2023-2024
+        : am luat la facultate
+        : am luat contact cu mediul academic
+2024-2025
+        : am terminat anul I
+        : am facut practica
+2025-2026
+        : am facut practica la fotogrametrie
+
+        
+```
+  
+
+
+  
