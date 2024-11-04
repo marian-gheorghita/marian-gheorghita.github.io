@@ -4,6 +4,6 @@
 
 ```mermaid
 flowchat LR
-A[/Anul I/] --> B[Anul II]
-A --> C[\Anul IV/]
+A[/Anul I/] -->|Tranzitie usoara| B[Anul II]
+A -.->|Tranzitie grea| C[\Anul IV/]
 ```
